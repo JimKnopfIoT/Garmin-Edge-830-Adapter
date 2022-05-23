@@ -1,5 +1,5 @@
 # Garmin-Edge-830-Adapter
-Adapter to compensate for the inclination of a bicycle handlebar on the Garmin bracket
+Adapter to compensate for the inclination of a bicycle handlebar on the Garmin bracket (Created with Rhino 7).
 
 # Adapter
 3D printable Adapter for Garmin Edge 830 to compensate the inclination of a bicycle handlebar when mounting a Garmin bracket on it.
