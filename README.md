@@ -20,4 +20,8 @@ Requirements:
 <img src="iso3.jpg" width="500" align="center">
 <img src="iso4.jpg" width="500" align="center">
 <img src="iso5.jpg" width="500" align="center">
-
+<img src="view1.jpg" width="500" align="center">
+<img src="view2.jpg" width="500" align="center">
+<img src="Front.jpg" width="500" align="center">
+<img src="Side.jpg" width="500" align="center">
+<img src="Top.jpg" width="500" align="center">
