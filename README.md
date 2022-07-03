@@ -23,9 +23,9 @@ Requirements:
 <img src="iso5.jpg"  width="150"> 
 </p>
 <p align="center"> 
-<img src="view1.jpg" height="150"
-<img src="view2.jpg" height="150"
-<img src="Front.jpg" height="150"
-<img src="Side.jpg" height="150"
-<img src="Top.jpg" height="150"
+<img src="view1.jpg" height="150">
+<img src="view2.jpg" height="150">
+<img src="Front.jpg" height="150">
+<img src="Side.jpg" height="150">
+<img src="Top.jpg" height="150">
 </p>
