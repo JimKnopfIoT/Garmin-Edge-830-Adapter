@@ -15,13 +15,17 @@ Requirements:
 
 
 ## View
-<img src="iso1.jpg" width="500" align="center"> 
-<img src="iso2.jpg" width="500" align="center">
-<img src="iso3.jpg" width="500" align="center">
-<img src="iso4.jpg" width="500" align="center">
-<img src="iso5.jpg" width="500" align="center">
-<img src="view1.jpg" width="500" align="center">
-<img src="view2.jpg" width="500" align="center">
-<img src="Front.jpg" width="500" align="center">
-<img src="Side.jpg" width="500" align="center">
-<img src="Top.jpg" width="500" align="center">
+<p align="center"> 
+<img src="iso1.jpg" width="150"> 
+<img src="iso2.jpg" width="150"> 
+<img src="iso3.jpg" width="150"> 
+<img src="iso4.jpg" width="150"> 
+<img src="iso5.jpg"  width="150"> 
+</p>
+<p align="center"> 
+<img src="view1.jpg" height="150"
+<img src="view2.jpg" height="150"
+<img src="Front.jpg" height="150"
+<img src="Side.jpg" height="150"
+<img src="Top.jpg" height="150"
+</p>
